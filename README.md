@@ -3,7 +3,7 @@
 Bem-vindo ao repositório LangChain Notebook! Este repositório contém todos os exemplos de código que você precisará acompanhar junto com a apresentacao disponivel no arquivo PDF abaixo. 
 Ao final deste curso, você saberá como usar LangChain para criar seus próprios agentes de IA, construir chatbots RAG e automatizar tarefas com IA.
 
-[Gen AI e LangChain.pdf](https://github.com/marcellorego/langchain-notebook/blob/main/Gen AI e LangChain.pdf)
+[Gen AI e LangChain.pdf](https://github.com/marcellorego/langchain-notebook/blob/main/GenAI-LangChain.pdf")
 
 
 ## Implementação prática em Python
