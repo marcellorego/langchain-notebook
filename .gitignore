@@ -171,3 +171,9 @@ cython_debug/
 # Docker-compose
 docker-compose/*
 !docker-compose/docker-compose-ollama.yaml
+
+# DB
+notebooks/db/
+
+# memory
+notebooks/memory.db
