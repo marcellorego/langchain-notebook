@@ -173,7 +173,7 @@ docker-compose/*
 !docker-compose/docker-compose-ollama.yaml
 
 # DB
-notebooks/db/
+notebooks/chroma_db/
 
 # memory
 notebooks/memory.db
